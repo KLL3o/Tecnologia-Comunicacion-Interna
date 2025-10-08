@@ -1,0 +1,20 @@
+En los siguientes pasos descibiremos como se debe hacer para runnear el codigo correctamente:
+• Abrí Visual Studio Code
+   El archivo donde se encuentre el codigo debe estar con el nombre de "app.py" 
+• Abrí la terminal 
+  escribir el siguiente comando: python --version
+• Instalá Flask y Werkzeug
+  En la misma terminal escribir: pip install flask werkzeug
+  En el caso que no funcione hay que cambiarlo por: python -m pip install flask werkzeug
+• Para confirmar la instalación hay que escribir "pip list"
+  Una vez hecho esto si esta todo bien se debe ver algo como:
+  Flask
+
+  Werkzeug
+• Para ejecutar la aplicacion primero debemos estar seguros de estar en la misma carpeta donde se encuentra app.py
+• Posteriomente debemos escribir "python app.py" en la misma terminar
+
+
+• Y por ultimo entramos a google, mozilla, edge, brave, el navegador que te pinte usar y buscas la siguiente URL:http://127.0.0.1:5000
+
+Y asi conseguimos ejecutar la aplicacion de manera efectiva y util. Seguiremos mejorando con el tema del diseño y mas cosas como subir otro tipo de archivos,etc.
